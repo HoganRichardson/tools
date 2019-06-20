@@ -1,2 +1,5 @@
 # sectools
-Scripts, helpers and docs that I've created for various security challenges
+##### A collection of small scripts and programs I've created for various security challenges
+
+## hex.py
+`hex.py` does a thing.
